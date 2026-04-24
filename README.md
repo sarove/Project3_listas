@@ -194,7 +194,7 @@ dl.traverse_forward()
 ## 👤 Autor
 
 - **Curso:** Estructuras de Datos y Algoritmos 1
-- **Semana:** 5 — Colas (Queues)
+- **Semana:** 5 — Listas Enlazadas
 - **Estudiante:** Salvador Rodriguez —Jorge Luis Velasquez- Universidad Autónoma de Occidente (UAO)
 - **Contacto:** salvador.rodriguez_v@uao.edu.co, Jorge_luis.velasquez@uao.edu.co
 
